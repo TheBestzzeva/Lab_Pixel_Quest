@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 14
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,9 +114,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,9 +135,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 288
-        width: 17
-        height: 17
+        y: 292
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,9 +156,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,9 +177,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,9 +198,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 68
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,9 +219,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 85
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,9 +240,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 102
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,9 +261,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 119
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,9 +282,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 136
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,9 +303,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 153
-        y: 288
-        width: 17
-        height: 17
+        y: 289
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_10
       rect:
         serializedVersion: 2
-        x: 170
-        y: 288
-        width: 17
-        height: 17
+        x: 200
+        y: 289
+        width: 20
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_11
       rect:
         serializedVersion: 2
-        x: 187
-        y: 288
-        width: 17
-        height: 17
+        x: 221
+        y: 289
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_12
       rect:
         serializedVersion: 2
-        x: 204
-        y: 288
-        width: 17
-        height: 17
+        x: 238
+        y: 289
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_13
       rect:
         serializedVersion: 2
-        x: 221
-        y: 288
-        width: 17
-        height: 17
+        x: 255
+        y: 289
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_14
       rect:
         serializedVersion: 2
-        x: 238
-        y: 288
-        width: 17
-        height: 17
+        x: 275
+        y: 290
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_15
       rect:
         serializedVersion: 2
-        x: 255
-        y: 288
-        width: 17
-        height: 17
+        x: 292
+        y: 290
+        width: 9
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_16
       rect:
         serializedVersion: 2
-        x: 272
-        y: 288
-        width: 17
-        height: 17
+        x: 308
+        y: 293
+        width: 12
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_17
       rect:
         serializedVersion: 2
-        x: 289
-        y: 288
-        width: 17
-        height: 17
+        x: 324
+        y: 289
+        width: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +491,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_18
       rect:
         serializedVersion: 2
-        x: 306
-        y: 288
-        width: 17
-        height: 17
+        x: 341
+        y: 289
+        width: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_19
       rect:
         serializedVersion: 2
-        x: 323
-        y: 288
-        width: 17
-        height: 17
+        x: 357
+        y: 291
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_20
       rect:
         serializedVersion: 2
-        x: 340
-        y: 288
-        width: 17
-        height: 17
+        x: 384
+        y: 291
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_21
       rect:
         serializedVersion: 2
-        x: 357
-        y: 288
-        width: 17
-        height: 17
+        x: 391
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_22
       rect:
         serializedVersion: 2
-        x: 374
-        y: 288
-        width: 17
-        height: 17
+        x: 408
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_23
       rect:
         serializedVersion: 2
-        x: 391
-        y: 288
-        width: 17
-        height: 17
+        x: 425
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_24
       rect:
         serializedVersion: 2
-        x: 408
-        y: 288
-        width: 17
-        height: 17
+        x: 442
+        y: 289
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_25
       rect:
         serializedVersion: 2
-        x: 425
-        y: 288
-        width: 17
-        height: 17
+        x: 0
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_26
       rect:
         serializedVersion: 2
-        x: 0
-        y: 271
-        width: 17
-        height: 17
+        x: 17
+        y: 273
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_27
       rect:
         serializedVersion: 2
-        x: 17
-        y: 271
-        width: 17
-        height: 17
+        x: 34
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_28
       rect:
         serializedVersion: 2
-        x: 34
-        y: 271
-        width: 17
-        height: 17
+        x: 51
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_29
       rect:
         serializedVersion: 2
-        x: 51
-        y: 271
-        width: 17
-        height: 17
+        x: 68
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_30
       rect:
         serializedVersion: 2
-        x: 68
-        y: 271
-        width: 17
-        height: 17
+        x: 85
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_31
       rect:
         serializedVersion: 2
-        x: 85
-        y: 271
-        width: 17
-        height: 17
+        x: 102
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_32
       rect:
         serializedVersion: 2
-        x: 102
-        y: 271
-        width: 17
-        height: 17
+        x: 136
+        y: 272
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_33
       rect:
         serializedVersion: 2
-        x: 136
-        y: 271
-        width: 17
-        height: 17
+        x: 153
+        y: 272
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_34
       rect:
         serializedVersion: 2
-        x: 153
-        y: 271
-        width: 17
-        height: 17
+        x: 200
+        y: 272
+        width: 20
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_35
       rect:
         serializedVersion: 2
-        x: 170
-        y: 271
-        width: 17
-        height: 17
+        x: 221
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_36
       rect:
         serializedVersion: 2
-        x: 187
-        y: 271
-        width: 17
-        height: 17
+        x: 238
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_37
       rect:
         serializedVersion: 2
-        x: 204
-        y: 271
-        width: 17
-        height: 17
+        x: 255
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -911,10 +911,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_38
       rect:
         serializedVersion: 2
-        x: 221
-        y: 271
-        width: 17
-        height: 17
+        x: 272
+        y: 272
+        width: 33
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_39
       rect:
         serializedVersion: 2
-        x: 238
-        y: 271
-        width: 17
-        height: 17
+        x: 306
+        y: 272
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +953,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_40
       rect:
         serializedVersion: 2
-        x: 255
-        y: 271
-        width: 17
-        height: 17
+        x: 324
+        y: 272
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_41
       rect:
         serializedVersion: 2
-        x: 272
-        y: 271
-        width: 17
-        height: 17
+        x: 341
+        y: 272
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,10 +995,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_42
       rect:
         serializedVersion: 2
-        x: 289
-        y: 271
-        width: 17
-        height: 17
+        x: 357
+        y: 274
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_43
       rect:
         serializedVersion: 2
-        x: 306
-        y: 271
-        width: 17
-        height: 17
+        x: 384
+        y: 274
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1037,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_44
       rect:
         serializedVersion: 2
-        x: 323
-        y: 271
-        width: 17
-        height: 17
+        x: 391
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_45
       rect:
         serializedVersion: 2
-        x: 340
-        y: 271
-        width: 17
-        height: 17
+        x: 408
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_46
       rect:
         serializedVersion: 2
-        x: 357
-        y: 271
-        width: 17
-        height: 17
+        x: 425
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_47
       rect:
         serializedVersion: 2
-        x: 374
-        y: 271
-        width: 17
-        height: 17
+        x: 442
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1121,10 +1121,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_48
       rect:
         serializedVersion: 2
-        x: 391
-        y: 271
-        width: 17
-        height: 17
+        x: 3
+        y: 255
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_49
       rect:
         serializedVersion: 2
-        x: 408
-        y: 271
-        width: 17
-        height: 17
+        x: 20
+        y: 258
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_50
       rect:
         serializedVersion: 2
-        x: 425
-        y: 271
-        width: 17
-        height: 17
+        x: 37
+        y: 255
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_51
       rect:
         serializedVersion: 2
-        x: 0
-        y: 254
-        width: 17
-        height: 17
+        x: 54
+        y: 255
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_52
       rect:
         serializedVersion: 2
-        x: 17
-        y: 254
-        width: 17
-        height: 17
+        x: 68
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_53
       rect:
         serializedVersion: 2
-        x: 34
-        y: 254
-        width: 17
-        height: 17
+        x: 85
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_54
       rect:
         serializedVersion: 2
-        x: 51
-        y: 254
-        width: 17
-        height: 17
+        x: 102
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1268,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_55
       rect:
         serializedVersion: 2
-        x: 68
-        y: 254
-        width: 17
-        height: 17
+        x: 136
+        y: 255
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1289,10 +1289,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_56
       rect:
         serializedVersion: 2
-        x: 85
-        y: 254
-        width: 17
-        height: 17
+        x: 153
+        y: 255
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_57
       rect:
         serializedVersion: 2
-        x: 102
-        y: 254
-        width: 17
-        height: 17
+        x: 170
+        y: 245
+        width: 15
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_58
       rect:
         serializedVersion: 2
-        x: 136
-        y: 254
-        width: 17
-        height: 17
+        x: 188
+        y: 247
+        width: 15
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,10 +1352,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_59
       rect:
         serializedVersion: 2
-        x: 153
-        y: 254
-        width: 17
-        height: 17
+        x: 204
+        y: 255
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1373,10 +1373,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_60
       rect:
         serializedVersion: 2
-        x: 170
-        y: 254
-        width: 17
-        height: 17
+        x: 221
+        y: 255
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1394,10 +1394,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_61
       rect:
         serializedVersion: 2
-        x: 187
-        y: 254
-        width: 17
-        height: 17
+        x: 238
+        y: 255
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,10 +1415,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_62
       rect:
         serializedVersion: 2
-        x: 204
-        y: 254
-        width: 17
-        height: 17
+        x: 255
+        y: 255
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,10 +1436,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_63
       rect:
         serializedVersion: 2
-        x: 221
-        y: 254
-        width: 17
-        height: 17
+        x: 272
+        y: 255
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1457,10 +1457,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_64
       rect:
         serializedVersion: 2
-        x: 238
-        y: 254
-        width: 17
-        height: 17
+        x: 289
+        y: 257
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1478,10 +1478,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_65
       rect:
         serializedVersion: 2
-        x: 255
-        y: 254
-        width: 17
-        height: 17
+        x: 306
+        y: 255
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,10 +1499,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_66
       rect:
         serializedVersion: 2
-        x: 272
-        y: 254
-        width: 17
-        height: 17
+        x: 328
+        y: 255
+        width: 5
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1520,10 +1520,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_67
       rect:
         serializedVersion: 2
-        x: 289
-        y: 254
-        width: 17
-        height: 17
+        x: 345
+        y: 255
+        width: 5
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,10 +1541,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_68
       rect:
         serializedVersion: 2
-        x: 306
-        y: 254
-        width: 17
-        height: 17
+        x: 357
+        y: 257
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_69
       rect:
         serializedVersion: 2
-        x: 323
-        y: 254
-        width: 17
-        height: 17
+        x: 384
+        y: 257
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1583,10 +1583,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_70
       rect:
         serializedVersion: 2
-        x: 340
-        y: 254
-        width: 17
-        height: 17
+        x: 391
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1604,10 +1604,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_71
       rect:
         serializedVersion: 2
-        x: 357
-        y: 254
-        width: 17
-        height: 17
+        x: 408
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,10 +1625,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_72
       rect:
         serializedVersion: 2
-        x: 374
-        y: 254
-        width: 17
-        height: 17
+        x: 425
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1646,10 +1646,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_73
       rect:
         serializedVersion: 2
-        x: 391
-        y: 254
-        width: 17
-        height: 17
+        x: 442
+        y: 255
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_74
       rect:
         serializedVersion: 2
-        x: 408
-        y: 254
-        width: 17
-        height: 17
+        x: 3
+        y: 238
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1688,10 +1688,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_75
       rect:
         serializedVersion: 2
-        x: 425
-        y: 254
-        width: 17
-        height: 17
+        x: 20
+        y: 242
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1709,10 +1709,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_76
       rect:
         serializedVersion: 2
-        x: 0
-        y: 237
-        width: 17
-        height: 17
+        x: 37
+        y: 238
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,10 +1730,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_77
       rect:
         serializedVersion: 2
-        x: 17
-        y: 237
-        width: 17
-        height: 17
+        x: 54
+        y: 238
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1751,10 +1751,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_78
       rect:
         serializedVersion: 2
-        x: 34
-        y: 237
-        width: 17
-        height: 17
+        x: 68
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1772,10 +1772,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_79
       rect:
         serializedVersion: 2
-        x: 51
-        y: 237
-        width: 17
-        height: 17
+        x: 85
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,10 +1793,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_80
       rect:
         serializedVersion: 2
-        x: 68
-        y: 237
-        width: 17
-        height: 17
+        x: 102
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1814,10 +1814,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_81
       rect:
         serializedVersion: 2
-        x: 85
-        y: 237
-        width: 17
-        height: 17
+        x: 136
+        y: 238
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1835,10 +1835,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_82
       rect:
         serializedVersion: 2
-        x: 102
-        y: 237
-        width: 17
-        height: 17
+        x: 153
+        y: 238
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1856,10 +1856,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_83
       rect:
         serializedVersion: 2
-        x: 136
-        y: 237
-        width: 17
-        height: 17
+        x: 204
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1877,10 +1877,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_84
       rect:
         serializedVersion: 2
-        x: 153
-        y: 237
-        width: 17
-        height: 17
+        x: 221
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1898,10 +1898,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_85
       rect:
         serializedVersion: 2
-        x: 170
-        y: 237
-        width: 17
-        height: 17
+        x: 238
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1919,10 +1919,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_86
       rect:
         serializedVersion: 2
-        x: 187
-        y: 237
-        width: 17
-        height: 17
+        x: 255
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1940,10 +1940,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_87
       rect:
         serializedVersion: 2
-        x: 204
-        y: 237
-        width: 17
-        height: 17
+        x: 277
+        y: 243
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1961,10 +1961,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_88
       rect:
         serializedVersion: 2
-        x: 221
-        y: 237
-        width: 17
-        height: 17
+        x: 292
+        y: 242
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1982,10 +1982,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_89
       rect:
         serializedVersion: 2
-        x: 238
-        y: 237
-        width: 17
-        height: 17
+        x: 311
+        y: 243
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2003,10 +2003,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_90
       rect:
         serializedVersion: 2
-        x: 255
-        y: 237
-        width: 17
-        height: 17
+        x: 328
+        y: 238
+        width: 5
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,10 +2024,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_91
       rect:
         serializedVersion: 2
-        x: 272
-        y: 237
-        width: 17
-        height: 17
+        x: 345
+        y: 238
+        width: 5
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2045,10 +2045,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_92
       rect:
         serializedVersion: 2
-        x: 289
-        y: 237
-        width: 17
-        height: 17
+        x: 357
+        y: 240
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2066,10 +2066,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_93
       rect:
         serializedVersion: 2
-        x: 306
-        y: 237
-        width: 17
-        height: 17
+        x: 384
+        y: 240
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2087,10 +2087,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_94
       rect:
         serializedVersion: 2
-        x: 323
-        y: 237
-        width: 17
-        height: 17
+        x: 391
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2108,10 +2108,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_95
       rect:
         serializedVersion: 2
-        x: 340
-        y: 237
-        width: 17
-        height: 17
+        x: 408
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2129,10 +2129,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_96
       rect:
         serializedVersion: 2
-        x: 357
-        y: 237
-        width: 17
-        height: 17
+        x: 425
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2150,10 +2150,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_97
       rect:
         serializedVersion: 2
-        x: 374
-        y: 237
-        width: 17
-        height: 17
+        x: 442
+        y: 238
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2171,10 +2171,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_98
       rect:
         serializedVersion: 2
-        x: 391
-        y: 237
-        width: 17
-        height: 17
+        x: 3
+        y: 221
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2192,10 +2192,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_99
       rect:
         serializedVersion: 2
-        x: 408
-        y: 237
-        width: 17
-        height: 17
+        x: 20
+        y: 224
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2213,10 +2213,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_100
       rect:
         serializedVersion: 2
-        x: 425
-        y: 237
-        width: 17
-        height: 17
+        x: 37
+        y: 221
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2234,10 +2234,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_101
       rect:
         serializedVersion: 2
-        x: 0
-        y: 220
-        width: 17
-        height: 17
+        x: 54
+        y: 221
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2255,10 +2255,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_102
       rect:
         serializedVersion: 2
-        x: 17
-        y: 220
-        width: 17
-        height: 17
+        x: 68
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2276,10 +2276,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_103
       rect:
         serializedVersion: 2
-        x: 34
-        y: 220
-        width: 17
-        height: 17
+        x: 85
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2297,10 +2297,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_104
       rect:
         serializedVersion: 2
-        x: 51
-        y: 220
-        width: 17
-        height: 17
+        x: 102
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2318,10 +2318,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_105
       rect:
         serializedVersion: 2
-        x: 68
-        y: 220
-        width: 17
-        height: 17
+        x: 119
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2339,10 +2339,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_106
       rect:
         serializedVersion: 2
-        x: 85
-        y: 220
-        width: 17
-        height: 17
+        x: 136
+        y: 221
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2360,10 +2360,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_107
       rect:
         serializedVersion: 2
-        x: 102
-        y: 220
-        width: 17
-        height: 17
+        x: 153
+        y: 221
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2381,10 +2381,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_108
       rect:
         serializedVersion: 2
-        x: 119
-        y: 220
-        width: 17
-        height: 17
+        x: 171
+        y: 228
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2402,10 +2402,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_109
       rect:
         serializedVersion: 2
-        x: 136
-        y: 220
-        width: 17
-        height: 17
+        x: 187
+        y: 228
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2423,10 +2423,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_110
       rect:
         serializedVersion: 2
-        x: 153
-        y: 220
-        width: 17
-        height: 17
+        x: 204
+        y: 221
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2444,10 +2444,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_111
       rect:
         serializedVersion: 2
-        x: 170
-        y: 220
-        width: 17
-        height: 17
+        x: 221
+        y: 221
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2465,10 +2465,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_112
       rect:
         serializedVersion: 2
-        x: 187
-        y: 220
-        width: 17
-        height: 17
+        x: 238
+        y: 221
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2486,10 +2486,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_113
       rect:
         serializedVersion: 2
-        x: 204
-        y: 220
-        width: 17
-        height: 17
+        x: 255
+        y: 221
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2507,10 +2507,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_114
       rect:
         serializedVersion: 2
-        x: 221
-        y: 220
-        width: 17
-        height: 17
+        x: 274
+        y: 225
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2528,10 +2528,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_115
       rect:
         serializedVersion: 2
-        x: 238
-        y: 220
-        width: 17
-        height: 17
+        x: 291
+        y: 225
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2549,10 +2549,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_116
       rect:
         serializedVersion: 2
-        x: 255
-        y: 220
-        width: 17
-        height: 17
+        x: 308
+        y: 225
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2570,10 +2570,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_117
       rect:
         serializedVersion: 2
-        x: 272
-        y: 220
-        width: 17
-        height: 17
+        x: 328
+        y: 221
+        width: 5
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2591,10 +2591,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_118
       rect:
         serializedVersion: 2
-        x: 289
-        y: 220
-        width: 17
-        height: 17
+        x: 345
+        y: 221
+        width: 5
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2612,10 +2612,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_119
       rect:
         serializedVersion: 2
-        x: 306
-        y: 220
-        width: 17
-        height: 17
+        x: 361
+        y: 224
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2633,10 +2633,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_120
       rect:
         serializedVersion: 2
-        x: 323
-        y: 220
-        width: 17
-        height: 17
+        x: 378
+        y: 224
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2654,10 +2654,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_121
       rect:
         serializedVersion: 2
-        x: 340
-        y: 220
-        width: 17
-        height: 17
+        x: 391
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2675,10 +2675,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_122
       rect:
         serializedVersion: 2
-        x: 357
-        y: 220
-        width: 17
-        height: 17
+        x: 408
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2696,10 +2696,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_123
       rect:
         serializedVersion: 2
-        x: 374
-        y: 220
-        width: 17
-        height: 17
+        x: 425
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2717,10 +2717,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_124
       rect:
         serializedVersion: 2
-        x: 391
-        y: 220
-        width: 17
-        height: 17
+        x: 442
+        y: 221
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2738,10 +2738,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_125
       rect:
         serializedVersion: 2
-        x: 408
-        y: 220
-        width: 17
-        height: 17
+        x: 3
+        y: 204
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2759,10 +2759,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_126
       rect:
         serializedVersion: 2
-        x: 425
-        y: 220
-        width: 17
-        height: 17
+        x: 20
+        y: 208
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2780,10 +2780,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_127
       rect:
         serializedVersion: 2
-        x: 0
-        y: 203
-        width: 17
-        height: 17
+        x: 37
+        y: 204
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2801,10 +2801,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_128
       rect:
         serializedVersion: 2
-        x: 17
-        y: 203
-        width: 17
-        height: 17
+        x: 54
+        y: 204
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2822,10 +2822,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_129
       rect:
         serializedVersion: 2
-        x: 34
-        y: 203
-        width: 17
-        height: 17
+        x: 68
+        y: 204
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2843,10 +2843,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_130
       rect:
         serializedVersion: 2
-        x: 51
-        y: 203
-        width: 17
-        height: 17
+        x: 85
+        y: 204
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2864,10 +2864,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_131
       rect:
         serializedVersion: 2
-        x: 68
-        y: 203
-        width: 17
-        height: 17
+        x: 102
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2885,10 +2885,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_132
       rect:
         serializedVersion: 2
-        x: 85
-        y: 203
-        width: 17
-        height: 17
+        x: 136
+        y: 204
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2906,10 +2906,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_133
       rect:
         serializedVersion: 2
-        x: 102
-        y: 203
-        width: 17
-        height: 17
+        x: 153
+        y: 204
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2927,10 +2927,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_134
       rect:
         serializedVersion: 2
-        x: 136
-        y: 203
-        width: 17
-        height: 17
+        x: 171
+        y: 213
+        width: 15
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2948,10 +2948,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_135
       rect:
         serializedVersion: 2
-        x: 153
-        y: 203
-        width: 17
-        height: 17
+        x: 187
+        y: 213
+        width: 15
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2969,10 +2969,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_136
       rect:
         serializedVersion: 2
-        x: 170
-        y: 203
-        width: 17
-        height: 17
+        x: 204
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2990,10 +2990,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_137
       rect:
         serializedVersion: 2
-        x: 187
-        y: 203
-        width: 17
-        height: 17
+        x: 221
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3011,10 +3011,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_138
       rect:
         serializedVersion: 2
-        x: 204
-        y: 203
-        width: 17
-        height: 17
+        x: 238
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3032,10 +3032,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_139
       rect:
         serializedVersion: 2
-        x: 221
-        y: 203
-        width: 17
-        height: 17
+        x: 255
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3053,10 +3053,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_140
       rect:
         serializedVersion: 2
-        x: 238
-        y: 203
-        width: 17
-        height: 17
+        x: 274
+        y: 208
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3074,10 +3074,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_141
       rect:
         serializedVersion: 2
-        x: 255
-        y: 203
-        width: 17
-        height: 17
+        x: 291
+        y: 208
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3095,10 +3095,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_142
       rect:
         serializedVersion: 2
-        x: 272
-        y: 203
-        width: 17
-        height: 17
+        x: 308
+        y: 208
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3116,10 +3116,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_143
       rect:
         serializedVersion: 2
-        x: 289
-        y: 203
-        width: 17
-        height: 17
+        x: 326
+        y: 205
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3137,10 +3137,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_144
       rect:
         serializedVersion: 2
-        x: 306
-        y: 203
-        width: 17
-        height: 17
+        x: 343
+        y: 205
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3158,10 +3158,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_145
       rect:
         serializedVersion: 2
-        x: 323
-        y: 203
-        width: 17
-        height: 17
+        x: 391
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3179,10 +3179,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_146
       rect:
         serializedVersion: 2
-        x: 340
-        y: 203
-        width: 17
-        height: 17
+        x: 408
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3200,10 +3200,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_147
       rect:
         serializedVersion: 2
-        x: 357
-        y: 203
-        width: 17
-        height: 17
+        x: 425
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3221,10 +3221,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_148
       rect:
         serializedVersion: 2
-        x: 374
-        y: 203
-        width: 17
-        height: 17
+        x: 442
+        y: 204
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3242,10 +3242,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_149
       rect:
         serializedVersion: 2
-        x: 391
-        y: 203
-        width: 17
-        height: 17
+        x: 361
+        y: 204
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3263,10 +3263,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_150
       rect:
         serializedVersion: 2
-        x: 408
-        y: 203
-        width: 17
-        height: 17
+        x: 378
+        y: 204
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3284,10 +3284,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_151
       rect:
         serializedVersion: 2
-        x: 425
-        y: 203
-        width: 17
-        height: 17
+        x: 3
+        y: 187
+        width: 10
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3305,10 +3305,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_152
       rect:
         serializedVersion: 2
-        x: 0
-        y: 186
-        width: 17
-        height: 17
+        x: 20
+        y: 188
+        width: 10
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3326,10 +3326,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_153
       rect:
         serializedVersion: 2
-        x: 17
-        y: 186
-        width: 17
-        height: 17
+        x: 37
+        y: 187
+        width: 10
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3347,10 +3347,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_154
       rect:
         serializedVersion: 2
-        x: 34
-        y: 186
-        width: 17
-        height: 17
+        x: 54
+        y: 187
+        width: 10
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3368,10 +3368,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_155
       rect:
         serializedVersion: 2
-        x: 51
-        y: 186
-        width: 17
-        height: 17
+        x: 71
+        y: 187
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3389,10 +3389,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_156
       rect:
         serializedVersion: 2
-        x: 68
-        y: 186
-        width: 17
-        height: 17
+        x: 85
+        y: 188
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3410,10 +3410,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_157
       rect:
         serializedVersion: 2
-        x: 85
-        y: 186
-        width: 17
-        height: 17
+        x: 102
+        y: 187
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3431,10 +3431,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_158
       rect:
         serializedVersion: 2
-        x: 102
-        y: 186
-        width: 17
-        height: 17
+        x: 119
+        y: 187
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3452,10 +3452,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_159
       rect:
         serializedVersion: 2
-        x: 119
-        y: 186
-        width: 17
-        height: 17
+        x: 137
+        y: 187
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3473,10 +3473,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_160
       rect:
         serializedVersion: 2
-        x: 136
-        y: 186
-        width: 17
-        height: 17
+        x: 154
+        y: 187
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3494,10 +3494,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_161
       rect:
         serializedVersion: 2
-        x: 153
-        y: 186
-        width: 17
-        height: 17
+        x: 171
+        y: 187
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3515,10 +3515,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_162
       rect:
         serializedVersion: 2
-        x: 170
-        y: 186
-        width: 17
-        height: 17
+        x: 188
+        y: 187
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3536,10 +3536,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_163
       rect:
         serializedVersion: 2
-        x: 187
-        y: 186
-        width: 17
-        height: 17
+        x: 205
+        y: 187
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3557,10 +3557,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_164
       rect:
         serializedVersion: 2
-        x: 204
-        y: 186
-        width: 17
-        height: 17
+        x: 221
+        y: 187
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3578,10 +3578,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_165
       rect:
         serializedVersion: 2
-        x: 221
-        y: 186
-        width: 17
-        height: 17
+        x: 239
+        y: 187
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3599,10 +3599,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_166
       rect:
         serializedVersion: 2
-        x: 238
-        y: 186
-        width: 17
-        height: 17
+        x: 255
+        y: 187
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3620,10 +3620,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_167
       rect:
         serializedVersion: 2
-        x: 255
-        y: 186
-        width: 17
-        height: 17
+        x: 277
+        y: 193
+        width: 5
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3641,10 +3641,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_168
       rect:
         serializedVersion: 2
-        x: 272
-        y: 186
-        width: 17
-        height: 17
+        x: 294
+        y: 191
+        width: 5
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3662,10 +3662,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_169
       rect:
         serializedVersion: 2
-        x: 289
-        y: 186
-        width: 17
-        height: 17
+        x: 311
+        y: 193
+        width: 5
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3683,10 +3683,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_170
       rect:
         serializedVersion: 2
-        x: 306
-        y: 186
-        width: 17
-        height: 17
+        x: 328
+        y: 191
+        width: 5
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3704,10 +3704,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_171
       rect:
         serializedVersion: 2
-        x: 323
-        y: 186
-        width: 17
-        height: 17
+        x: 349
+        y: 188
+        width: 7
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3725,10 +3725,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_172
       rect:
         serializedVersion: 2
-        x: 340
-        y: 186
-        width: 17
-        height: 17
+        x: 366
+        y: 188
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3746,10 +3746,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_173
       rect:
         serializedVersion: 2
-        x: 357
-        y: 186
-        width: 17
-        height: 17
+        x: 383
+        y: 188
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3767,10 +3767,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_174
       rect:
         serializedVersion: 2
-        x: 374
-        y: 186
-        width: 17
-        height: 17
+        x: 391
+        y: 187
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3788,10 +3788,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_175
       rect:
         serializedVersion: 2
-        x: 391
-        y: 186
-        width: 17
-        height: 17
+        x: 408
+        y: 187
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3809,10 +3809,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_176
       rect:
         serializedVersion: 2
-        x: 408
-        y: 186
-        width: 17
-        height: 17
+        x: 425
+        y: 187
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3830,10 +3830,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_177
       rect:
         serializedVersion: 2
-        x: 425
-        y: 186
-        width: 17
-        height: 17
+        x: 442
+        y: 187
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3851,10 +3851,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_178
       rect:
         serializedVersion: 2
-        x: 0
-        y: 169
-        width: 17
-        height: 17
+        x: 3
+        y: 170
+        width: 10
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3872,10 +3872,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_179
       rect:
         serializedVersion: 2
-        x: 17
-        y: 169
-        width: 17
-        height: 17
+        x: 20
+        y: 171
+        width: 10
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3893,10 +3893,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_180
       rect:
         serializedVersion: 2
-        x: 34
-        y: 169
-        width: 17
-        height: 17
+        x: 37
+        y: 170
+        width: 10
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3914,10 +3914,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_181
       rect:
         serializedVersion: 2
-        x: 51
-        y: 169
-        width: 17
-        height: 17
+        x: 54
+        y: 170
+        width: 10
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3935,10 +3935,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_182
       rect:
         serializedVersion: 2
-        x: 68
-        y: 169
-        width: 17
-        height: 17
+        x: 71
+        y: 170
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3957,9 +3957,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 85
-        y: 169
-        width: 17
-        height: 17
+        y: 171
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3978,9 +3978,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 102
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3999,9 +3999,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 119
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4019,10 +4019,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_186
       rect:
         serializedVersion: 2
-        x: 136
-        y: 169
-        width: 17
-        height: 17
+        x: 137
+        y: 170
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4040,10 +4040,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_187
       rect:
         serializedVersion: 2
-        x: 153
-        y: 169
-        width: 17
-        height: 17
+        x: 154
+        y: 170
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4061,10 +4061,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_188
       rect:
         serializedVersion: 2
-        x: 170
-        y: 169
-        width: 17
-        height: 17
+        x: 171
+        y: 170
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4082,10 +4082,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_189
       rect:
         serializedVersion: 2
-        x: 187
-        y: 169
-        width: 17
-        height: 17
+        x: 188
+        y: 170
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4103,10 +4103,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_190
       rect:
         serializedVersion: 2
-        x: 204
-        y: 169
-        width: 17
-        height: 17
+        x: 205
+        y: 170
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4125,9 +4125,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 221
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4145,10 +4145,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_192
       rect:
         serializedVersion: 2
-        x: 238
-        y: 169
-        width: 17
-        height: 17
+        x: 239
+        y: 170
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4167,9 +4167,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 255
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4187,10 +4187,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_194
       rect:
         serializedVersion: 2
-        x: 272
-        y: 169
-        width: 17
-        height: 17
+        x: 274
+        y: 172
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4208,10 +4208,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_195
       rect:
         serializedVersion: 2
-        x: 289
-        y: 169
-        width: 17
-        height: 17
+        x: 290
+        y: 172
+        width: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4229,10 +4229,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_196
       rect:
         serializedVersion: 2
-        x: 306
-        y: 169
-        width: 17
-        height: 17
+        x: 308
+        y: 172
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4250,10 +4250,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_197
       rect:
         serializedVersion: 2
-        x: 323
-        y: 169
-        width: 17
-        height: 17
+        x: 324
+        y: 172
+        width: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4272,9 +4272,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 340
-        y: 169
-        width: 17
-        height: 17
+        y: 171
+        width: 7
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4293,9 +4293,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 357
-        y: 169
-        width: 17
-        height: 17
+        y: 171
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4314,9 +4314,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 374
-        y: 169
-        width: 17
-        height: 17
+        y: 171
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4335,9 +4335,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 391
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4356,9 +4356,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 408
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4377,9 +4377,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 425
-        y: 169
-        width: 17
-        height: 17
+        y: 170
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4397,10 +4397,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_204
       rect:
         serializedVersion: 2
-        x: 0
-        y: 152
-        width: 17
-        height: 17
+        x: 442
+        y: 170
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4418,10 +4418,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_205
       rect:
         serializedVersion: 2
-        x: 17
-        y: 152
-        width: 17
-        height: 17
+        x: 3
+        y: 153
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4439,10 +4439,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_206
       rect:
         serializedVersion: 2
-        x: 34
-        y: 152
-        width: 17
-        height: 17
+        x: 20
+        y: 156
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4460,10 +4460,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_207
       rect:
         serializedVersion: 2
-        x: 51
-        y: 152
-        width: 17
-        height: 17
+        x: 37
+        y: 153
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4481,10 +4481,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_208
       rect:
         serializedVersion: 2
-        x: 68
-        y: 152
-        width: 17
-        height: 17
+        x: 54
+        y: 153
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4502,10 +4502,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_209
       rect:
         serializedVersion: 2
-        x: 85
-        y: 152
-        width: 17
-        height: 17
+        x: 71
+        y: 153
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4523,10 +4523,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_210
       rect:
         serializedVersion: 2
-        x: 102
-        y: 152
-        width: 17
-        height: 17
+        x: 85
+        y: 154
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4544,10 +4544,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_211
       rect:
         serializedVersion: 2
-        x: 119
-        y: 152
-        width: 17
-        height: 17
+        x: 102
+        y: 153
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4565,10 +4565,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_212
       rect:
         serializedVersion: 2
-        x: 136
-        y: 152
-        width: 17
-        height: 17
+        x: 119
+        y: 153
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4586,10 +4586,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_213
       rect:
         serializedVersion: 2
-        x: 153
-        y: 152
-        width: 17
-        height: 17
+        x: 137
+        y: 153
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4607,10 +4607,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_214
       rect:
         serializedVersion: 2
-        x: 170
-        y: 152
-        width: 17
-        height: 17
+        x: 154
+        y: 153
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4628,10 +4628,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_215
       rect:
         serializedVersion: 2
-        x: 187
-        y: 152
-        width: 17
-        height: 17
+        x: 171
+        y: 153
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4649,10 +4649,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_216
       rect:
         serializedVersion: 2
-        x: 238
-        y: 152
-        width: 17
-        height: 17
+        x: 187
+        y: 153
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4670,10 +4670,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_217
       rect:
         serializedVersion: 2
-        x: 255
-        y: 152
-        width: 17
-        height: 17
+        x: 239
+        y: 153
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4691,10 +4691,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_218
       rect:
         serializedVersion: 2
-        x: 272
-        y: 152
-        width: 17
-        height: 17
+        x: 255
+        y: 153
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4712,10 +4712,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_219
       rect:
         serializedVersion: 2
-        x: 289
-        y: 152
-        width: 17
-        height: 17
+        x: 272
+        y: 153
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4733,10 +4733,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_220
       rect:
         serializedVersion: 2
-        x: 306
-        y: 152
-        width: 17
-        height: 17
+        x: 289
+        y: 154
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4754,10 +4754,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_221
       rect:
         serializedVersion: 2
-        x: 323
-        y: 152
-        width: 17
-        height: 17
+        x: 306
+        y: 153
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4775,10 +4775,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_222
       rect:
         serializedVersion: 2
-        x: 340
-        y: 152
-        width: 17
-        height: 17
+        x: 323
+        y: 153
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4796,10 +4796,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_223
       rect:
         serializedVersion: 2
-        x: 357
-        y: 152
-        width: 17
-        height: 17
+        x: 340
+        y: 153
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4817,10 +4817,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_224
       rect:
         serializedVersion: 2
-        x: 374
-        y: 152
-        width: 17
-        height: 17
+        x: 359
+        y: 153
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4838,10 +4838,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_225
       rect:
         serializedVersion: 2
-        x: 391
-        y: 152
-        width: 17
-        height: 17
+        x: 377
+        y: 156
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4859,10 +4859,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_226
       rect:
         serializedVersion: 2
-        x: 408
-        y: 152
-        width: 17
-        height: 17
+        x: 393
+        y: 153
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4880,10 +4880,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_227
       rect:
         serializedVersion: 2
-        x: 425
-        y: 152
-        width: 17
-        height: 17
+        x: 408
+        y: 153
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4901,10 +4901,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_228
       rect:
         serializedVersion: 2
-        x: 0
-        y: 135
-        width: 17
-        height: 17
+        x: 425
+        y: 153
+        width: 12
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4922,10 +4922,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_229
       rect:
         serializedVersion: 2
-        x: 17
-        y: 135
-        width: 17
-        height: 17
+        x: 446
+        y: 153
+        width: 12
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4943,10 +4943,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_230
       rect:
         serializedVersion: 2
-        x: 34
-        y: 135
-        width: 17
-        height: 17
+        x: 0
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4964,10 +4964,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_231
       rect:
         serializedVersion: 2
-        x: 51
-        y: 135
-        width: 17
-        height: 17
+        x: 17
+        y: 139
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4985,10 +4985,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_232
       rect:
         serializedVersion: 2
-        x: 68
-        y: 135
-        width: 17
-        height: 17
+        x: 34
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5006,10 +5006,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_233
       rect:
         serializedVersion: 2
-        x: 85
-        y: 135
-        width: 17
-        height: 17
+        x: 51
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5027,10 +5027,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_234
       rect:
         serializedVersion: 2
-        x: 102
-        y: 135
-        width: 17
-        height: 17
+        x: 68
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5048,10 +5048,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_235
       rect:
         serializedVersion: 2
-        x: 119
-        y: 135
-        width: 17
-        height: 17
+        x: 85
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5069,10 +5069,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_236
       rect:
         serializedVersion: 2
-        x: 136
-        y: 135
-        width: 17
-        height: 17
+        x: 102
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5090,10 +5090,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_237
       rect:
         serializedVersion: 2
-        x: 153
-        y: 135
-        width: 17
-        height: 17
+        x: 119
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5111,10 +5111,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_238
       rect:
         serializedVersion: 2
-        x: 170
-        y: 135
-        width: 17
-        height: 17
+        x: 136
+        y: 139
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5132,10 +5132,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_239
       rect:
         serializedVersion: 2
-        x: 187
-        y: 135
-        width: 17
-        height: 17
+        x: 153
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5153,10 +5153,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_240
       rect:
         serializedVersion: 2
-        x: 204
-        y: 135
-        width: 17
-        height: 17
+        x: 170
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5174,10 +5174,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_241
       rect:
         serializedVersion: 2
-        x: 221
-        y: 135
-        width: 17
-        height: 17
+        x: 187
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5195,10 +5195,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_242
       rect:
         serializedVersion: 2
-        x: 238
-        y: 135
-        width: 17
-        height: 17
+        x: 204
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5216,10 +5216,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_243
       rect:
         serializedVersion: 2
-        x: 255
-        y: 135
-        width: 17
-        height: 17
+        x: 221
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5237,10 +5237,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_244
       rect:
         serializedVersion: 2
-        x: 272
-        y: 135
-        width: 17
-        height: 17
+        x: 238
+        y: 136
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5258,10 +5258,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_245
       rect:
         serializedVersion: 2
-        x: 289
-        y: 135
-        width: 17
-        height: 17
+        x: 255
+        y: 136
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5279,10 +5279,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_246
       rect:
         serializedVersion: 2
-        x: 306
-        y: 135
-        width: 17
-        height: 17
+        x: 272
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5300,10 +5300,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_247
       rect:
         serializedVersion: 2
-        x: 323
-        y: 135
-        width: 17
-        height: 17
+        x: 289
+        y: 137
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5321,10 +5321,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_248
       rect:
         serializedVersion: 2
-        x: 340
-        y: 135
-        width: 17
-        height: 17
+        x: 306
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5342,10 +5342,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_249
       rect:
         serializedVersion: 2
-        x: 357
-        y: 135
-        width: 17
-        height: 17
+        x: 323
+        y: 136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5363,10 +5363,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_250
       rect:
         serializedVersion: 2
-        x: 374
-        y: 135
-        width: 17
-        height: 17
+        x: 340
+        y: 119
+        width: 16
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5384,10 +5384,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_251
       rect:
         serializedVersion: 2
-        x: 391
-        y: 135
-        width: 17
-        height: 17
+        x: 359
+        y: 136
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5405,10 +5405,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_252
       rect:
         serializedVersion: 2
-        x: 408
-        y: 135
-        width: 17
-        height: 17
+        x: 378
+        y: 139
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5426,10 +5426,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_253
       rect:
         serializedVersion: 2
-        x: 425
-        y: 135
-        width: 17
-        height: 17
+        x: 393
+        y: 136
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5447,10 +5447,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_254
       rect:
         serializedVersion: 2
-        x: 0
-        y: 118
-        width: 17
-        height: 17
+        x: 408
+        y: 136
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5468,10 +5468,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_255
       rect:
         serializedVersion: 2
-        x: 17
-        y: 118
-        width: 17
-        height: 17
+        x: 425
+        y: 136
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5489,10 +5489,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_256
       rect:
         serializedVersion: 2
-        x: 34
-        y: 118
-        width: 17
-        height: 17
+        x: 446
+        y: 136
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5510,10 +5510,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_257
       rect:
         serializedVersion: 2
-        x: 51
-        y: 118
-        width: 17
-        height: 17
+        x: 0
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5531,10 +5531,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_258
       rect:
         serializedVersion: 2
-        x: 68
-        y: 118
-        width: 17
-        height: 17
+        x: 17
+        y: 120
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5552,10 +5552,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_259
       rect:
         serializedVersion: 2
-        x: 85
-        y: 118
-        width: 17
-        height: 17
+        x: 34
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5573,10 +5573,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_260
       rect:
         serializedVersion: 2
-        x: 102
-        y: 118
-        width: 17
-        height: 17
+        x: 51
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5594,10 +5594,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_261
       rect:
         serializedVersion: 2
-        x: 119
-        y: 118
-        width: 17
-        height: 17
+        x: 68
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5615,10 +5615,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_262
       rect:
         serializedVersion: 2
-        x: 136
-        y: 118
-        width: 17
-        height: 17
+        x: 85
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5636,10 +5636,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_263
       rect:
         serializedVersion: 2
-        x: 153
-        y: 118
-        width: 17
-        height: 17
+        x: 102
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5657,10 +5657,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_264
       rect:
         serializedVersion: 2
-        x: 170
-        y: 118
-        width: 17
-        height: 17
+        x: 119
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5678,10 +5678,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_265
       rect:
         serializedVersion: 2
-        x: 187
-        y: 118
-        width: 17
-        height: 17
+        x: 136
+        y: 120
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5699,10 +5699,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_266
       rect:
         serializedVersion: 2
-        x: 204
-        y: 118
-        width: 17
-        height: 17
+        x: 153
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5720,10 +5720,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_267
       rect:
         serializedVersion: 2
-        x: 221
-        y: 118
-        width: 17
-        height: 17
+        x: 170
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5741,10 +5741,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_268
       rect:
         serializedVersion: 2
-        x: 238
-        y: 118
-        width: 17
-        height: 17
+        x: 187
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5762,10 +5762,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_269
       rect:
         serializedVersion: 2
-        x: 255
-        y: 118
-        width: 17
-        height: 17
+        x: 204
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5783,10 +5783,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_270
       rect:
         serializedVersion: 2
-        x: 272
-        y: 118
-        width: 17
-        height: 17
+        x: 221
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5804,10 +5804,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_271
       rect:
         serializedVersion: 2
-        x: 289
-        y: 118
-        width: 17
-        height: 17
+        x: 240
+        y: 119
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5825,10 +5825,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_272
       rect:
         serializedVersion: 2
-        x: 306
-        y: 118
-        width: 17
-        height: 17
+        x: 257
+        y: 119
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5846,10 +5846,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_273
       rect:
         serializedVersion: 2
-        x: 323
-        y: 118
-        width: 17
-        height: 17
+        x: 272
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5867,10 +5867,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_274
       rect:
         serializedVersion: 2
-        x: 340
-        y: 118
-        width: 17
-        height: 17
+        x: 289
+        y: 120
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5888,10 +5888,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_275
       rect:
         serializedVersion: 2
-        x: 357
-        y: 118
-        width: 17
-        height: 17
+        x: 306
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5909,10 +5909,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_276
       rect:
         serializedVersion: 2
-        x: 374
-        y: 118
-        width: 17
-        height: 17
+        x: 323
+        y: 119
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5930,10 +5930,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_277
       rect:
         serializedVersion: 2
-        x: 391
-        y: 118
-        width: 17
-        height: 17
+        x: 359
+        y: 119
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5951,10 +5951,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_278
       rect:
         serializedVersion: 2
-        x: 408
-        y: 118
-        width: 17
-        height: 17
+        x: 378
+        y: 122
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5972,10 +5972,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_279
       rect:
         serializedVersion: 2
-        x: 425
-        y: 118
-        width: 17
-        height: 17
+        x: 391
+        y: 119
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5993,10 +5993,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_280
       rect:
         serializedVersion: 2
-        x: 0
-        y: 101
-        width: 17
-        height: 17
+        x: 408
+        y: 120
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6014,10 +6014,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_281
       rect:
         serializedVersion: 2
-        x: 17
-        y: 101
-        width: 17
-        height: 17
+        x: 425
+        y: 119
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6035,10 +6035,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_282
       rect:
         serializedVersion: 2
-        x: 34
-        y: 101
-        width: 17
-        height: 17
+        x: 442
+        y: 119
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6056,10 +6056,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_283
       rect:
         serializedVersion: 2
-        x: 51
-        y: 101
-        width: 17
-        height: 17
+        x: 0
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6077,10 +6077,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_284
       rect:
         serializedVersion: 2
-        x: 68
-        y: 101
-        width: 17
-        height: 17
+        x: 17
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6098,10 +6098,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_285
       rect:
         serializedVersion: 2
-        x: 85
-        y: 101
-        width: 17
-        height: 17
+        x: 34
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6119,10 +6119,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_286
       rect:
         serializedVersion: 2
-        x: 102
-        y: 101
-        width: 17
-        height: 17
+        x: 51
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6140,10 +6140,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_287
       rect:
         serializedVersion: 2
-        x: 119
-        y: 101
-        width: 17
-        height: 17
+        x: 68
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6161,10 +6161,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_288
       rect:
         serializedVersion: 2
-        x: 136
-        y: 101
-        width: 17
-        height: 17
+        x: 85
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6182,10 +6182,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_289
       rect:
         serializedVersion: 2
-        x: 153
-        y: 101
-        width: 17
-        height: 17
+        x: 102
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6203,10 +6203,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_290
       rect:
         serializedVersion: 2
-        x: 170
-        y: 101
-        width: 17
-        height: 17
+        x: 119
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6224,10 +6224,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_291
       rect:
         serializedVersion: 2
-        x: 187
-        y: 101
-        width: 17
-        height: 17
+        x: 136
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6245,10 +6245,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_292
       rect:
         serializedVersion: 2
-        x: 204
-        y: 101
-        width: 17
-        height: 17
+        x: 153
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6266,10 +6266,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_293
       rect:
         serializedVersion: 2
-        x: 221
-        y: 101
-        width: 17
-        height: 17
+        x: 170
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6287,10 +6287,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_294
       rect:
         serializedVersion: 2
-        x: 238
-        y: 101
-        width: 17
-        height: 17
+        x: 187
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6308,10 +6308,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_295
       rect:
         serializedVersion: 2
-        x: 255
-        y: 101
-        width: 17
-        height: 17
+        x: 204
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6329,10 +6329,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_296
       rect:
         serializedVersion: 2
-        x: 272
-        y: 101
-        width: 17
-        height: 17
+        x: 221
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6350,10 +6350,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_297
       rect:
         serializedVersion: 2
-        x: 289
-        y: 101
-        width: 17
-        height: 17
+        x: 238
+        y: 102
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6371,10 +6371,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_298
       rect:
         serializedVersion: 2
-        x: 306
-        y: 101
-        width: 17
-        height: 17
+        x: 255
+        y: 102
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6392,10 +6392,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_299
       rect:
         serializedVersion: 2
-        x: 323
-        y: 101
-        width: 17
-        height: 17
+        x: 272
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6413,10 +6413,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_300
       rect:
         serializedVersion: 2
-        x: 340
-        y: 101
-        width: 17
-        height: 17
+        x: 289
+        y: 103
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6434,10 +6434,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_301
       rect:
         serializedVersion: 2
-        x: 357
-        y: 101
-        width: 17
-        height: 17
+        x: 306
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6455,10 +6455,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_302
       rect:
         serializedVersion: 2
-        x: 374
-        y: 101
-        width: 17
-        height: 17
+        x: 323
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6476,10 +6476,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_303
       rect:
         serializedVersion: 2
-        x: 391
-        y: 101
-        width: 17
-        height: 17
+        x: 340
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6497,10 +6497,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_304
       rect:
         serializedVersion: 2
-        x: 408
-        y: 101
-        width: 17
-        height: 17
+        x: 359
+        y: 108
+        width: 12
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6518,10 +6518,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_305
       rect:
         serializedVersion: 2
-        x: 425
-        y: 101
-        width: 17
-        height: 17
+        x: 378
+        y: 104
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6539,10 +6539,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_306
       rect:
         serializedVersion: 2
-        x: 0
-        y: 84
-        width: 17
-        height: 17
+        x: 391
+        y: 102
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6560,10 +6560,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_307
       rect:
         serializedVersion: 2
-        x: 17
-        y: 84
-        width: 17
-        height: 17
+        x: 408
+        y: 102
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6581,10 +6581,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_308
       rect:
         serializedVersion: 2
-        x: 34
-        y: 84
-        width: 17
-        height: 17
+        x: 425
+        y: 102
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6602,10 +6602,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_309
       rect:
         serializedVersion: 2
-        x: 51
-        y: 84
-        width: 17
-        height: 17
+        x: 446
+        y: 102
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6623,10 +6623,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_310
       rect:
         serializedVersion: 2
-        x: 68
-        y: 84
-        width: 17
-        height: 17
+        x: 0
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6644,10 +6644,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_311
       rect:
         serializedVersion: 2
-        x: 85
-        y: 84
-        width: 17
-        height: 17
+        x: 17
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6665,10 +6665,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_312
       rect:
         serializedVersion: 2
-        x: 102
-        y: 84
-        width: 17
-        height: 17
+        x: 34
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6686,10 +6686,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_313
       rect:
         serializedVersion: 2
-        x: 119
-        y: 84
-        width: 17
-        height: 17
+        x: 51
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6707,10 +6707,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_314
       rect:
         serializedVersion: 2
-        x: 136
-        y: 84
-        width: 17
-        height: 17
+        x: 68
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6728,10 +6728,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_315
       rect:
         serializedVersion: 2
-        x: 153
-        y: 84
-        width: 17
-        height: 17
+        x: 85
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6749,10 +6749,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_316
       rect:
         serializedVersion: 2
-        x: 170
-        y: 84
-        width: 17
-        height: 17
+        x: 102
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6770,10 +6770,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_317
       rect:
         serializedVersion: 2
-        x: 187
-        y: 84
-        width: 17
-        height: 17
+        x: 119
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6791,10 +6791,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_318
       rect:
         serializedVersion: 2
-        x: 204
-        y: 84
-        width: 17
-        height: 17
+        x: 136
+        y: 86
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6812,10 +6812,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_319
       rect:
         serializedVersion: 2
-        x: 221
-        y: 84
-        width: 17
-        height: 17
+        x: 153
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6833,10 +6833,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_320
       rect:
         serializedVersion: 2
-        x: 238
-        y: 84
-        width: 17
-        height: 17
+        x: 170
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6854,10 +6854,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_321
       rect:
         serializedVersion: 2
-        x: 255
-        y: 84
-        width: 17
-        height: 17
+        x: 187
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6875,10 +6875,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_322
       rect:
         serializedVersion: 2
-        x: 272
-        y: 84
-        width: 17
-        height: 17
+        x: 204
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6896,10 +6896,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_323
       rect:
         serializedVersion: 2
-        x: 289
-        y: 84
-        width: 17
-        height: 17
+        x: 221
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6917,10 +6917,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_324
       rect:
         serializedVersion: 2
-        x: 306
-        y: 84
-        width: 17
-        height: 17
+        x: 240
+        y: 85
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6938,10 +6938,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_325
       rect:
         serializedVersion: 2
-        x: 323
-        y: 84
-        width: 17
-        height: 17
+        x: 257
+        y: 85
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6959,10 +6959,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_326
       rect:
         serializedVersion: 2
-        x: 340
-        y: 84
-        width: 17
-        height: 17
+        x: 272
+        y: 91
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6980,10 +6980,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_327
       rect:
         serializedVersion: 2
-        x: 357
-        y: 84
-        width: 17
-        height: 17
+        x: 281
+        y: 87
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7001,10 +7001,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_328
       rect:
         serializedVersion: 2
-        x: 374
-        y: 84
-        width: 17
-        height: 17
+        x: 289
+        y: 91
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7022,10 +7022,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_329
       rect:
         serializedVersion: 2
-        x: 391
-        y: 84
-        width: 17
-        height: 17
+        x: 298
+        y: 87
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7043,10 +7043,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_330
       rect:
         serializedVersion: 2
-        x: 408
-        y: 84
-        width: 17
-        height: 17
+        x: 306
+        y: 91
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7064,10 +7064,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_331
       rect:
         serializedVersion: 2
-        x: 425
-        y: 84
-        width: 17
-        height: 17
+        x: 315
+        y: 87
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7085,10 +7085,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_332
       rect:
         serializedVersion: 2
-        x: 0
-        y: 67
-        width: 17
-        height: 17
+        x: 323
+        y: 86
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7106,10 +7106,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_333
       rect:
         serializedVersion: 2
-        x: 17
-        y: 67
-        width: 17
-        height: 17
+        x: 340
+        y: 86
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7127,10 +7127,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_334
       rect:
         serializedVersion: 2
-        x: 34
-        y: 67
-        width: 17
-        height: 17
+        x: 357
+        y: 86
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7148,10 +7148,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_335
       rect:
         serializedVersion: 2
-        x: 51
-        y: 67
-        width: 17
-        height: 17
+        x: 387
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7169,10 +7169,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_336
       rect:
         serializedVersion: 2
-        x: 68
-        y: 67
-        width: 17
-        height: 17
+        x: 412
+        y: 85
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7190,10 +7190,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_337
       rect:
         serializedVersion: 2
-        x: 85
-        y: 67
-        width: 17
-        height: 17
+        x: 425
+        y: 85
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7211,10 +7211,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_338
       rect:
         serializedVersion: 2
-        x: 102
-        y: 67
-        width: 17
-        height: 17
+        x: 446
+        y: 85
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7232,10 +7232,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_339
       rect:
         serializedVersion: 2
-        x: 119
-        y: 67
-        width: 17
-        height: 17
+        x: 0
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7253,10 +7253,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_340
       rect:
         serializedVersion: 2
-        x: 136
-        y: 67
-        width: 17
-        height: 17
+        x: 17
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7274,10 +7274,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_341
       rect:
         serializedVersion: 2
-        x: 153
-        y: 67
-        width: 17
-        height: 17
+        x: 34
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7295,10 +7295,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_342
       rect:
         serializedVersion: 2
-        x: 170
-        y: 67
-        width: 17
-        height: 17
+        x: 51
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7316,10 +7316,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_343
       rect:
         serializedVersion: 2
-        x: 187
-        y: 67
-        width: 17
-        height: 17
+        x: 68
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7337,10 +7337,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_344
       rect:
         serializedVersion: 2
-        x: 204
-        y: 67
-        width: 17
-        height: 17
+        x: 85
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7358,10 +7358,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_345
       rect:
         serializedVersion: 2
-        x: 221
-        y: 67
-        width: 17
-        height: 17
+        x: 102
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7379,10 +7379,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_346
       rect:
         serializedVersion: 2
-        x: 238
-        y: 67
-        width: 17
-        height: 17
+        x: 119
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7400,10 +7400,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_347
       rect:
         serializedVersion: 2
-        x: 255
-        y: 67
-        width: 17
-        height: 17
+        x: 136
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7421,10 +7421,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_348
       rect:
         serializedVersion: 2
-        x: 272
-        y: 67
-        width: 17
-        height: 17
+        x: 153
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7442,10 +7442,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_349
       rect:
         serializedVersion: 2
-        x: 289
-        y: 67
-        width: 17
-        height: 17
+        x: 170
+        y: 68
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7463,10 +7463,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_350
       rect:
         serializedVersion: 2
-        x: 306
-        y: 67
-        width: 17
-        height: 17
+        x: 193
+        y: 68
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7484,10 +7484,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_351
       rect:
         serializedVersion: 2
-        x: 323
-        y: 67
-        width: 17
-        height: 17
+        x: 204
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7505,10 +7505,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_352
       rect:
         serializedVersion: 2
-        x: 340
-        y: 67
-        width: 17
-        height: 17
+        x: 221
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7526,10 +7526,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_353
       rect:
         serializedVersion: 2
-        x: 357
-        y: 67
-        width: 17
-        height: 17
+        x: 238
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7547,10 +7547,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_354
       rect:
         serializedVersion: 2
-        x: 374
-        y: 67
-        width: 17
-        height: 17
+        x: 255
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7568,10 +7568,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_355
       rect:
         serializedVersion: 2
-        x: 391
-        y: 67
-        width: 17
-        height: 17
+        x: 272
+        y: 77
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7589,10 +7589,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_356
       rect:
         serializedVersion: 2
-        x: 408
-        y: 67
-        width: 17
-        height: 17
+        x: 281
+        y: 74
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7610,10 +7610,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_357
       rect:
         serializedVersion: 2
-        x: 425
-        y: 67
-        width: 17
-        height: 17
+        x: 289
+        y: 77
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7631,10 +7631,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_358
       rect:
         serializedVersion: 2
-        x: 0
-        y: 50
-        width: 17
-        height: 17
+        x: 298
+        y: 74
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7652,10 +7652,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_359
       rect:
         serializedVersion: 2
-        x: 17
-        y: 50
-        width: 17
-        height: 17
+        x: 306
+        y: 77
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7673,10 +7673,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_360
       rect:
         serializedVersion: 2
-        x: 34
-        y: 50
-        width: 17
-        height: 17
+        x: 315
+        y: 74
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7694,10 +7694,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_361
       rect:
         serializedVersion: 2
-        x: 51
-        y: 50
-        width: 17
-        height: 17
+        x: 323
+        y: 69
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7715,10 +7715,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_362
       rect:
         serializedVersion: 2
-        x: 68
-        y: 50
-        width: 17
-        height: 17
+        x: 340
+        y: 69
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7736,10 +7736,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_363
       rect:
         serializedVersion: 2
-        x: 85
-        y: 50
-        width: 17
-        height: 17
+        x: 357
+        y: 68
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7757,10 +7757,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_364
       rect:
         serializedVersion: 2
-        x: 102
-        y: 50
-        width: 17
-        height: 17
+        x: 391
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7778,10 +7778,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_365
       rect:
         serializedVersion: 2
-        x: 119
-        y: 50
-        width: 17
-        height: 17
+        x: 408
+        y: 68
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7799,10 +7799,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_366
       rect:
         serializedVersion: 2
-        x: 136
-        y: 50
-        width: 17
-        height: 17
+        x: 425
+        y: 76
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7820,10 +7820,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_367
       rect:
         serializedVersion: 2
-        x: 170
-        y: 50
-        width: 17
-        height: 17
+        x: 446
+        y: 76
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7841,10 +7841,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_368
       rect:
         serializedVersion: 2
-        x: 187
-        y: 50
-        width: 17
-        height: 17
+        x: 272
+        y: 68
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7862,10 +7862,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_369
       rect:
         serializedVersion: 2
-        x: 204
-        y: 50
-        width: 17
-        height: 17
+        x: 289
+        y: 68
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7883,10 +7883,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_370
       rect:
         serializedVersion: 2
-        x: 221
-        y: 50
-        width: 17
-        height: 17
+        x: 306
+        y: 68
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7904,10 +7904,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_371
       rect:
         serializedVersion: 2
-        x: 238
-        y: 50
-        width: 17
-        height: 17
+        x: 0
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7925,10 +7925,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_372
       rect:
         serializedVersion: 2
-        x: 255
-        y: 50
-        width: 17
-        height: 17
+        x: 17
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7946,10 +7946,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_373
       rect:
         serializedVersion: 2
-        x: 272
-        y: 50
-        width: 17
-        height: 17
+        x: 34
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7967,10 +7967,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_374
       rect:
         serializedVersion: 2
-        x: 289
-        y: 50
-        width: 17
-        height: 17
+        x: 51
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7988,10 +7988,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_375
       rect:
         serializedVersion: 2
-        x: 306
-        y: 50
-        width: 17
-        height: 17
+        x: 68
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8009,10 +8009,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_376
       rect:
         serializedVersion: 2
-        x: 323
-        y: 50
-        width: 17
-        height: 17
+        x: 85
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8030,10 +8030,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_377
       rect:
         serializedVersion: 2
-        x: 340
-        y: 50
-        width: 17
-        height: 17
+        x: 102
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8051,10 +8051,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_378
       rect:
         serializedVersion: 2
-        x: 357
-        y: 50
-        width: 17
-        height: 17
+        x: 119
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8072,10 +8072,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_379
       rect:
         serializedVersion: 2
-        x: 374
-        y: 50
-        width: 17
-        height: 17
+        x: 136
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8093,10 +8093,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_380
       rect:
         serializedVersion: 2
-        x: 391
-        y: 50
-        width: 17
-        height: 17
+        x: 170
+        y: 51
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8114,10 +8114,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_381
       rect:
         serializedVersion: 2
-        x: 408
-        y: 50
-        width: 17
-        height: 17
+        x: 193
+        y: 51
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8135,10 +8135,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_382
       rect:
         serializedVersion: 2
-        x: 425
-        y: 50
-        width: 17
-        height: 17
+        x: 204
+        y: 51
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8156,10 +8156,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_383
       rect:
         serializedVersion: 2
-        x: 0
-        y: 33
-        width: 17
-        height: 17
+        x: 227
+        y: 51
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8177,10 +8177,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_384
       rect:
         serializedVersion: 2
-        x: 17
-        y: 33
-        width: 17
-        height: 17
+        x: 238
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8198,10 +8198,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_385
       rect:
         serializedVersion: 2
-        x: 34
-        y: 33
-        width: 17
-        height: 17
+        x: 255
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8219,10 +8219,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_386
       rect:
         serializedVersion: 2
-        x: 51
-        y: 33
-        width: 17
-        height: 17
+        x: 274
+        y: 53
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8240,10 +8240,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_387
       rect:
         serializedVersion: 2
-        x: 68
-        y: 33
-        width: 17
-        height: 17
+        x: 289
+        y: 53
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8261,10 +8261,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_388
       rect:
         serializedVersion: 2
-        x: 85
-        y: 33
-        width: 17
-        height: 17
+        x: 306
+        y: 53
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8282,10 +8282,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_389
       rect:
         serializedVersion: 2
-        x: 102
-        y: 33
-        width: 17
-        height: 17
+        x: 323
+        y: 52
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8303,10 +8303,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_390
       rect:
         serializedVersion: 2
-        x: 119
-        y: 33
-        width: 17
-        height: 17
+        x: 340
+        y: 52
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8324,10 +8324,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_391
       rect:
         serializedVersion: 2
-        x: 136
-        y: 33
-        width: 17
-        height: 17
+        x: 357
+        y: 52
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8345,10 +8345,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_392
       rect:
         serializedVersion: 2
-        x: 153
-        y: 33
-        width: 17
-        height: 17
+        x: 375
+        y: 51
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8366,10 +8366,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_393
       rect:
         serializedVersion: 2
-        x: 170
-        y: 33
-        width: 17
-        height: 17
+        x: 391
+        y: 51
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8387,10 +8387,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_394
       rect:
         serializedVersion: 2
-        x: 187
-        y: 33
-        width: 17
-        height: 17
+        x: 408
+        y: 52
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8408,10 +8408,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_395
       rect:
         serializedVersion: 2
-        x: 204
-        y: 33
-        width: 17
-        height: 17
+        x: 425
+        y: 51
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8429,10 +8429,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_396
       rect:
         serializedVersion: 2
-        x: 221
-        y: 33
-        width: 17
-        height: 17
+        x: 442
+        y: 51
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8450,10 +8450,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_397
       rect:
         serializedVersion: 2
-        x: 238
-        y: 33
-        width: 17
-        height: 17
+        x: 0
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8471,10 +8471,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_398
       rect:
         serializedVersion: 2
-        x: 255
-        y: 33
-        width: 17
-        height: 17
+        x: 17
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8492,10 +8492,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_399
       rect:
         serializedVersion: 2
-        x: 272
-        y: 33
-        width: 17
-        height: 17
+        x: 34
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8513,10 +8513,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_400
       rect:
         serializedVersion: 2
-        x: 289
-        y: 33
-        width: 17
-        height: 17
+        x: 51
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8534,10 +8534,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_401
       rect:
         serializedVersion: 2
-        x: 306
-        y: 33
-        width: 17
-        height: 17
+        x: 68
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8555,10 +8555,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_402
       rect:
         serializedVersion: 2
-        x: 323
-        y: 33
-        width: 17
-        height: 17
+        x: 85
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8576,10 +8576,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_403
       rect:
         serializedVersion: 2
-        x: 340
-        y: 33
-        width: 17
-        height: 17
+        x: 102
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8597,10 +8597,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_404
       rect:
         serializedVersion: 2
-        x: 357
-        y: 33
-        width: 17
-        height: 17
+        x: 119
+        y: 37
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8618,10 +8618,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_405
       rect:
         serializedVersion: 2
-        x: 374
-        y: 33
-        width: 17
-        height: 17
+        x: 136
+        y: 34
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8639,10 +8639,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_406
       rect:
         serializedVersion: 2
-        x: 391
-        y: 33
-        width: 17
-        height: 17
+        x: 153
+        y: 35
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8660,10 +8660,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_407
       rect:
         serializedVersion: 2
-        x: 408
-        y: 33
-        width: 17
-        height: 17
+        x: 170
+        y: 34
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8681,10 +8681,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_408
       rect:
         serializedVersion: 2
-        x: 425
-        y: 33
-        width: 17
-        height: 17
+        x: 187
+        y: 34
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8702,10 +8702,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_409
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 17
-        height: 17
+        x: 204
+        y: 34
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8723,10 +8723,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_410
       rect:
         serializedVersion: 2
-        x: 17
-        y: 16
-        width: 17
-        height: 17
+        x: 227
+        y: 34
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8744,10 +8744,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_411
       rect:
         serializedVersion: 2
-        x: 34
-        y: 16
-        width: 17
-        height: 17
+        x: 238
+        y: 34
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8765,10 +8765,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_412
       rect:
         serializedVersion: 2
-        x: 51
-        y: 16
-        width: 17
-        height: 17
+        x: 261
+        y: 34
+        width: 4
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8786,10 +8786,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_413
       rect:
         serializedVersion: 2
-        x: 68
-        y: 16
-        width: 17
-        height: 17
+        x: 274
+        y: 36
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8807,10 +8807,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_414
       rect:
         serializedVersion: 2
-        x: 85
-        y: 16
-        width: 17
-        height: 17
+        x: 289
+        y: 36
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8828,10 +8828,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_415
       rect:
         serializedVersion: 2
-        x: 102
-        y: 16
-        width: 17
-        height: 17
+        x: 306
+        y: 36
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8849,10 +8849,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_416
       rect:
         serializedVersion: 2
-        x: 119
-        y: 16
-        width: 17
-        height: 17
+        x: 323
+        y: 34
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8870,10 +8870,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_417
       rect:
         serializedVersion: 2
-        x: 136
-        y: 16
-        width: 17
-        height: 17
+        x: 340
+        y: 34
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8891,10 +8891,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_418
       rect:
         serializedVersion: 2
-        x: 153
-        y: 16
-        width: 17
-        height: 17
+        x: 357
+        y: 34
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8912,10 +8912,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_419
       rect:
         serializedVersion: 2
-        x: 170
-        y: 16
-        width: 17
-        height: 17
+        x: 375
+        y: 37
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8933,10 +8933,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_420
       rect:
         serializedVersion: 2
-        x: 187
-        y: 16
-        width: 17
-        height: 17
+        x: 391
+        y: 34
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8954,10 +8954,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_421
       rect:
         serializedVersion: 2
-        x: 204
-        y: 16
-        width: 17
-        height: 17
+        x: 408
+        y: 34
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8975,10 +8975,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_422
       rect:
         serializedVersion: 2
-        x: 221
-        y: 16
-        width: 17
-        height: 17
+        x: 425
+        y: 34
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8996,10 +8996,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_423
       rect:
         serializedVersion: 2
-        x: 238
-        y: 16
-        width: 17
-        height: 17
+        x: 446
+        y: 34
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9017,10 +9017,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_424
       rect:
         serializedVersion: 2
-        x: 255
-        y: 16
-        width: 17
-        height: 17
+        x: 0
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9038,10 +9038,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_425
       rect:
         serializedVersion: 2
-        x: 272
-        y: 16
-        width: 17
-        height: 17
+        x: 17
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9059,10 +9059,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_426
       rect:
         serializedVersion: 2
-        x: 289
-        y: 16
-        width: 17
-        height: 17
+        x: 34
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9080,10 +9080,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_427
       rect:
         serializedVersion: 2
-        x: 306
-        y: 16
-        width: 17
-        height: 17
+        x: 51
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9101,10 +9101,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_428
       rect:
         serializedVersion: 2
-        x: 323
-        y: 16
-        width: 17
-        height: 17
+        x: 68
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9122,10 +9122,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_429
       rect:
         serializedVersion: 2
-        x: 340
-        y: 16
-        width: 17
-        height: 17
+        x: 85
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9143,10 +9143,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_430
       rect:
         serializedVersion: 2
-        x: 357
-        y: 16
-        width: 17
-        height: 17
+        x: 102
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9164,10 +9164,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_431
       rect:
         serializedVersion: 2
-        x: 374
-        y: 16
-        width: 17
-        height: 17
+        x: 119
+        y: 20
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9185,10 +9185,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_432
       rect:
         serializedVersion: 2
-        x: 391
-        y: 16
-        width: 17
-        height: 17
+        x: 136
+        y: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9206,10 +9206,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_433
       rect:
         serializedVersion: 2
-        x: 408
-        y: 16
-        width: 17
-        height: 17
+        x: 153
+        y: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9227,10 +9227,10 @@ TextureImporter:
       name: roguelikeIndoor_transparent_434
       rect:
         serializedVersion: 2
-        x: 425
-        y: 16
-        width: 17
-        height: 17
+        x: 170
+        y: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9240,6 +9240,909 @@ TextureImporter:
       bones: []
       spriteID: 6d32151adff04a04d8138162d4cfaec7
       internalID: -1675640049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_435
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5adcd81a8ea7ea4ea67d73c86143190
+      internalID: -41504243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_436
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b81940e01bd7459de81a6dc4495e1
+      internalID: 580062756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_437
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a084a4a9cb16f42b9ddcde62a92edd
+      internalID: 1280530038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_438
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8758690b974dd1c4cb480645100c7122
+      internalID: -937403108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_439
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a170a9d26df3029499c7ceff68a27d54
+      internalID: 742896463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_440
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 19
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54184fde18d678143b3ace6265814b0c
+      internalID: -1582126271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_441
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa301a1d143688488ac742b9feb4972
+      internalID: -384213062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_442
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 19
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29595593ba680dd408c8ffe482ac88de
+      internalID: -315635775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_443
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 19
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf98637c91a93348aa29f7d9997534e
+      internalID: 633392733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_444
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 19
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8fcd12de1f7f439a3395a22990d8d
+      internalID: -1252113432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_445
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 19
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569fcd82488355545ad18d811ba69bb8
+      internalID: -1953006523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_446
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47fb32fbba4fe9499e0b72831cb190d
+      internalID: -1402311767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_447
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18637983830f02242846802a20775e5d
+      internalID: -1802580331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_448
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8b7b05e70bb9e46b8f254d7865151c
+      internalID: 1304777735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_449
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560cb745145b35f4ab8d7f51f442612e
+      internalID: -381174179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_450
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0baece3546a8b43907632398f2c669
+      internalID: 1086327101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_451
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408045402edd1c4a8b0b4c3d673d334
+      internalID: -1727745232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_452
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92128c100cc81144ca5f3006e2d797c1
+      internalID: -1915641097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_453
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768abec30ae3e6a4b9ebaf9a85654b80
+      internalID: 1621241644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_454
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a33c52490c00e48b2d3ef5c78e1f31
+      internalID: 1087427488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_455
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98538b3c476af4341863782bd7ebc8f5
+      internalID: -138918175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_456
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141a72d0592b25648a1223c9fdbf6733
+      internalID: 1931158351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_457
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c04f17d9447024592f0356f5b11e3d
+      internalID: -1254660455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_458
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d05b8ab9436524ab3c697de7e85e53
+      internalID: 1392075713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_459
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b634ea8fc0c6468b9644dab2f9385
+      internalID: -498517453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_460
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff425a665416f0741b96abb7d7f20dae
+      internalID: 1085786174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_461
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949fc7a701931dc4fabaf0cfc0359da9
+      internalID: 1690753402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_462
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7825b8587974c43874b22ca695b81a
+      internalID: -1933478393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_463
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b47abe3f68a0469645ea223bad716
+      internalID: 1276116682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_464
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec2a31b805cbb42a3ab6e883022d42
+      internalID: 1530134366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_465
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd95fd7b37223a5409caca3fee6fdf40
+      internalID: -256685934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_466
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772bcfd2735ee7c4c9045d9cca5173e5
+      internalID: 801196924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_467
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1beacee55ef6ff4f80cc850fa1023e7
+      internalID: 1143919351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_468
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fd1eb05e489974bb9b3d0a239e1145
+      internalID: -530489509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_469
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ac4349cf1abe4794e8d7fb0d371c0
+      internalID: 1309796995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_470
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c396406a51c5d4f87574cefd25dd84
+      internalID: -476129281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_471
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c306123432e6a4b8bc962172b8f915
+      internalID: 1720706905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_472
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabddf4574ca0f4f84162b2cc164b9d
+      internalID: 2110165638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_473
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94dbf0921cb27d439ec00bdc908126c
+      internalID: 1306550318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_474
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0980b82cd1881428b4846d3db4a6ad
+      internalID: 643669247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_475
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c613500468bfe468f261b73595c2a7
+      internalID: -951641240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_476
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dc55e5f0280fe4b8c0509b7fa74a3e
+      internalID: 1278170844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roguelikeIndoor_transparent_477
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f905fa3ec6aa543bde9dda02a1a70b
+      internalID: -1318577815
       vertices: []
       indices: 
       edges: []
@@ -9629,10 +10532,53 @@ TextureImporter:
       roguelikeIndoor_transparent_432: -1153253906
       roguelikeIndoor_transparent_433: -1549004628
       roguelikeIndoor_transparent_434: -1675640049
+      roguelikeIndoor_transparent_435: -41504243
+      roguelikeIndoor_transparent_436: 580062756
+      roguelikeIndoor_transparent_437: 1280530038
+      roguelikeIndoor_transparent_438: -937403108
+      roguelikeIndoor_transparent_439: 742896463
       roguelikeIndoor_transparent_44: -106452419
+      roguelikeIndoor_transparent_440: -1582126271
+      roguelikeIndoor_transparent_441: -384213062
+      roguelikeIndoor_transparent_442: -315635775
+      roguelikeIndoor_transparent_443: 633392733
+      roguelikeIndoor_transparent_444: -1252113432
+      roguelikeIndoor_transparent_445: -1953006523
+      roguelikeIndoor_transparent_446: -1402311767
+      roguelikeIndoor_transparent_447: -1802580331
+      roguelikeIndoor_transparent_448: 1304777735
+      roguelikeIndoor_transparent_449: -381174179
       roguelikeIndoor_transparent_45: 832688858
+      roguelikeIndoor_transparent_450: 1086327101
+      roguelikeIndoor_transparent_451: -1727745232
+      roguelikeIndoor_transparent_452: -1915641097
+      roguelikeIndoor_transparent_453: 1621241644
+      roguelikeIndoor_transparent_454: 1087427488
+      roguelikeIndoor_transparent_455: -138918175
+      roguelikeIndoor_transparent_456: 1931158351
+      roguelikeIndoor_transparent_457: -1254660455
+      roguelikeIndoor_transparent_458: 1392075713
+      roguelikeIndoor_transparent_459: -498517453
       roguelikeIndoor_transparent_46: 1249285772
+      roguelikeIndoor_transparent_460: 1085786174
+      roguelikeIndoor_transparent_461: 1690753402
+      roguelikeIndoor_transparent_462: -1933478393
+      roguelikeIndoor_transparent_463: 1276116682
+      roguelikeIndoor_transparent_464: 1530134366
+      roguelikeIndoor_transparent_465: -256685934
+      roguelikeIndoor_transparent_466: 801196924
+      roguelikeIndoor_transparent_467: 1143919351
+      roguelikeIndoor_transparent_468: -530489509
+      roguelikeIndoor_transparent_469: 1309796995
       roguelikeIndoor_transparent_47: 463887099
+      roguelikeIndoor_transparent_470: -476129281
+      roguelikeIndoor_transparent_471: 1720706905
+      roguelikeIndoor_transparent_472: 2110165638
+      roguelikeIndoor_transparent_473: 1306550318
+      roguelikeIndoor_transparent_474: 643669247
+      roguelikeIndoor_transparent_475: -951641240
+      roguelikeIndoor_transparent_476: 1278170844
+      roguelikeIndoor_transparent_477: -1318577815
       roguelikeIndoor_transparent_48: 328574519
       roguelikeIndoor_transparent_49: 2089468046
       roguelikeIndoor_transparent_5: 1325151063
