@@ -8,6 +8,7 @@ public class PlayerDialogue : MonoBehaviour
     public List<string> dialogue = new List<string>();
     private bool canSpeak = false;
     private bool isSpeaking = false;
+    
     private GameObject _talkPanel;
     private TextMeshProUGUI _talkText;
     private int _talkIndex = 0;
