@@ -2,16 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerDialogue : MonoBehaviour
 {
     public List<string> dialogue = new List<string>();
     private bool canSpeak = false;
     private bool isSpeaking = false;
+    private bool touchingDoor = false; 
     
     private GameObject _talkPanel;
     private TextMeshProUGUI _talkText;
     private int _talkIndex = 0;
+
+    public string nextLevel = "MenuLevel 1"; 
 
     private void Start()
     {
@@ -20,6 +24,8 @@ public class PlayerDialogue : MonoBehaviour
         _talkPanel = GameObject.Find(Structs.GameObjects.talkPanel);
         _talkPanel.SetActive(false);
     }
+
+
 
     // Update is called once per frame
     void Update()
@@ -30,6 +36,10 @@ public class PlayerDialogue : MonoBehaviour
             {
                 isSpeaking = false;
                 _talkPanel.SetActive(false);
+                if (touchingDoor)
+                {
+                    SceneManager.LoadScene(nextLevel);
+                }
             }
             else
             {
@@ -60,5 +70,13 @@ public class PlayerDialogue : MonoBehaviour
     {
         dialogue.Clear();
         dialogue.AddRange(newDialogue);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Doors")
+        {
+           touchingDoor = true; 
+        }
     }
 }
