@@ -7,9 +7,9 @@ using UnityEngine.SceneManagement;
 public class PlayerDialogue : MonoBehaviour
 {
     public List<string> dialogue = new List<string>();
-    private bool canSpeak = false;
-    private bool isSpeaking = false;
-    private bool touchingDoor = false; 
+    public bool canSpeak = false;
+    public bool isSpeaking = false;
+    public bool touchingDoor = false; 
     
     private GameObject _talkPanel;
     private TextMeshProUGUI _talkText;

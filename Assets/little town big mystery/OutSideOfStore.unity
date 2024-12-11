@@ -178,7 +178,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1800556627693974082, guid: 66e7a201ffd7ff544a92f3c8cd502d4a, type: 3}
       propertyPath: m_Name
-      value: Player
+      value: Eric
       objectReference: {fileID: 0}
     - target: {fileID: 2031064645044842970, guid: 66e7a201ffd7ff544a92f3c8cd502d4a, type: 3}
       propertyPath: orthographic size
@@ -252,6 +252,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4489764284999029757, guid: 66e7a201ffd7ff544a92f3c8cd502d4a, type: 3}
+      propertyPath: nextLevel
+      value: Groceryinside
+      objectReference: {fileID: 0}
     - target: {fileID: 6193409883560483015, guid: 66e7a201ffd7ff544a92f3c8cd502d4a, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
@@ -279,15 +283,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2641175210428784259, guid: 2ed84303b3c1c3b44a85ef4e464a50c5, type: 3}
       propertyPath: dialogue.Array.data[0]
-      value: Efea(You):"Um.."
+      value: Eric(You):"Um.."
       objectReference: {fileID: 0}
     - target: {fileID: 2641175210428784259, guid: 2ed84303b3c1c3b44a85ef4e464a50c5, type: 3}
       propertyPath: dialogue.Array.data[1]
-      value: Efea(You):"This store looks so broken down."
+      value: Eric(You):"This store looks so broken down."
       objectReference: {fileID: 0}
     - target: {fileID: 2641175210428784259, guid: 2ed84303b3c1c3b44a85ef4e464a50c5, type: 3}
       propertyPath: dialogue.Array.data[2]
-      value: Efea(You):*Sigh* "I'll still go inside, Inorder to find Janice!"
+      value: Eric(You):*Sigh* "I'll still go inside, Inorder to find Janice!"
       objectReference: {fileID: 0}
     - target: {fileID: 2741854173681740130, guid: 2ed84303b3c1c3b44a85ef4e464a50c5, type: 3}
       propertyPath: m_LocalPosition.x
